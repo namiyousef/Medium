@@ -7,4 +7,4 @@ The number before the name of the subdirectories refers to the article number. I
 
 ## 1_LinearRegression:
 My first articles. Subdir includes relevant notebooks and images used.
-Article link: 
+Article link: https://medium.com/@namiyousef96/how-to-choose-the-best-linear-regression-model-a-comprehensive-guide-for-beginners-754480768467
