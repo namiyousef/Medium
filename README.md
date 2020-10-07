@@ -6,5 +6,9 @@ This repository includes code used for writing some Medium articles. Note that i
 The number before the name of the subdirectories refers to the article number. I.e. 1_LinearRegression is my first article
 
 ## 1_LinearRegression:
-My first articles. Subdir includes relevant notebooks and images used.
+My first article. Subdir includes relevant notebooks and images used.
 Article link: https://medium.com/@namiyousef96/how-to-choose-the-best-linear-regression-model-a-comprehensive-guide-for-beginners-754480768467
+
+## 2_ChainRule:
+My second article. Subdir includes relevant notebooks (for generating plots) and images used.
+Article link: https://medium.com/@namiyousef96/understanding-chain-rule-an-intuitive-way-a7e715f43c86
