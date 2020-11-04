@@ -12,3 +12,7 @@ Article link: https://medium.com/@namiyousef96/how-to-choose-the-best-linear-reg
 ## 2_ChainRule:
 My second article. Subdir includes relevant notebooks (for generating plots) and images used.
 Article link: https://medium.com/@namiyousef96/understanding-chain-rule-an-intuitive-way-a7e715f43c86
+
+## 3_UKCrossings:
+This directory does not actually exist as it is empty.
+Article link: https://namiyousef96.medium.com/zebra-pelican-puffin-and-toucan-the-uks-pedestrian-crossings-46ac17f8e51d
